@@ -1,0 +1,18 @@
+.menu-item-group .ant-menu-item-group-title{
+    color: #7B8796;
+}
+.sider{
+    position:absolute !important;
+    height:100vh;
+    z-index:5;
+  }
+  
+  .content{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 3;
+    background-color: rgba(0,0,0,0.5);
+  }
