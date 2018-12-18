@@ -1,0 +1,44 @@
+
+
+#components-layout-demo-fixed-sider .logo {
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px;
+}
+
+.head-container{
+  width: 100%;
+  background: #3E3C42;
+}
+.landing-heading{
+  font-size: 70px;
+  /* font-weight: bold; */
+  font-family: sans-serif;
+}
+
+.head-container button, .nested-div button {
+  margin-right: 5px;
+}
+
+.head{
+  text-align: left;
+
+}
+/* .head-links{
+  margin-left: 10px;
+} */
+
+.nested-div{
+  border-radius: 5px;
+  padding: 10px;
+  background: rgb(223, 223, 223);
+  margin-bottom: 10px;
+  border-top:2px solid rgb(42, 42, 42)
+}
+.card-style{
+  width: 1090px;
+  text-align: center;
+}
+.ant-input {
+  height: 40px !important
+}

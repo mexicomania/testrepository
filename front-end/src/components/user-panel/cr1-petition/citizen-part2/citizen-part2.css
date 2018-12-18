@@ -1,0 +1,11 @@
+#citizen-part2 .steps-content {
+    margin-top: 16px;
+    background-color: #fafafa;
+    min-height: 200px;
+    text-align: left;
+    padding-top: 15px;
+  }
+  
+#citizen-part2 .steps-action {
+    margin-top: 24px;
+  }

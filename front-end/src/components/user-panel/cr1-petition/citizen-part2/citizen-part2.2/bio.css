@@ -1,0 +1,9 @@
+#citizen-part2-biographical .citizen-part2-biographical-form .ant-form-item-label{
+    white-space: normal !important;
+    line-height: 1.4 !important;
+}
+
+
+#citizen-part2-biographical .citizen-part2-biographical-form .ant-checkbox-group-item{
+    display: block;
+}
