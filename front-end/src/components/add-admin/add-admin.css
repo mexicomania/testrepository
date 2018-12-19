@@ -1,0 +1,12 @@
+#add-admin-form .add-form {
+    max-width: 300px;
+  }
+
+#add-admin-form .add-form-button {
+    width: 30%;
+    margin-right: 20px;
+  }
+
+#add-admin-form .default-btn{
+    background: gainsboro !important;
+  }

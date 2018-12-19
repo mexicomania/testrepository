@@ -1,0 +1,33 @@
+/* #alien-part2-parents .alien-part2-parents-form .ant-form-item-label{
+    white-space: normal !important;
+    line-height: 1.4 !important;
+} */
+#alien-part5-children .alien-part5-children-form{
+    margin-top: 15px;
+}
+
+
+.alien-part5-children-form .input-mask{
+    max-width: 300px;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #d9d9d9;
+    height: 32px;
+    padding-left: 11px;
+}
+
+
+
+#alien-part5-children .general-box{
+    padding: 20px;
+    background: lightgrey;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+#alien-part5-children .sub-box{
+    background: lightgrey;
+    border-radius: 2px;
+    padding: 5px;
+    font-weight: 500;
+}

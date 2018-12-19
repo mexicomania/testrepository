@@ -1,0 +1,9 @@
+#citizen-part-name .citizen-part-name-form .ant-form-item-label{
+    white-space: normal !important;
+    line-height: 1.4 !important;
+}
+
+#citizen-part-name .citizen-part-name-form .ant-form-item{
+    display: flex;
+    align-items: center;
+}
